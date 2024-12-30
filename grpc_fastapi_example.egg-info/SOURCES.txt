@@ -1,0 +1,17 @@
+setup.py
+app/__init__.py
+app/client/__init__.py
+app/client/grpc_client.py
+app/client/rest_client.py
+app/generated/__init__.py
+app/generated/user_pb2.py
+app/generated/user_pb2_grpc.py
+app/protos/__init__.py
+app/server/__init__.py
+app/server/grpc_server.py
+app/server/rest_server.py
+grpc_fastapi_example.egg-info/PKG-INFO
+grpc_fastapi_example.egg-info/SOURCES.txt
+grpc_fastapi_example.egg-info/dependency_links.txt
+grpc_fastapi_example.egg-info/requires.txt
+grpc_fastapi_example.egg-info/top_level.txt

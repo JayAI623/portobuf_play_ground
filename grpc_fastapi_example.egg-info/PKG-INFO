@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: grpc_fastapi_example
+Version: 0.1
+Requires-Dist: grpcio
+Requires-Dist: grpcio-tools
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: requests
